@@ -5,16 +5,15 @@ class Solution {
             nums1[i] = nums2[x];
             x++;
         }
-        Arrays.sort(nums1);
-        // int a = m+n;
-        // for(int i = 0; i <= a-1; i++){
-        //     for(int j = 0; j < a-i-1; j++){
-        //         if(nums1[j] > nums1[j+1]){
-        //             int temp = nums1[j];
-        //             nums1[j] = nums1[j+1];
-        //             nums1[j+1] = temp;
-        //         }
-        //     }
-        // }
+        int a = m+n;
+        for(int i = 0; i <= a-1; i++){
+            for(int j = 0; j < a-i-1; j++){
+                if(nums1[j] > nums1[j+1]){
+                    int temp = nums1[j];
+                    nums1[j] = nums1[j+1];
+                    nums1[j+1] = temp;
+                }
+            }
+        }
     }
 }
