@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Soheb04-git/LCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Soheb04-git/LCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Soheb04-git/LCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Soheb04-git/LCode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Soheb04-git/LCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Soheb04-git/LCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Soheb04-git/LCode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -24,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Soheb04-git/LCode/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/Soheb04-git/LCode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
