@@ -5,9 +5,6 @@ class Solution {
         for(int i = 1; i < n; i++){
             if(nums[i] != nums[i-1]) nums[a++] = nums[i];
         }
-        for(int k = a; k < n; k++){
-            nums[k] = 0;
-        }
         return a;
     }
 }
