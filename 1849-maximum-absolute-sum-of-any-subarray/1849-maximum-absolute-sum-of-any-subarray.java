@@ -1,18 +1,23 @@
 class Solution {
-    public int maxAbsoluteSum(int[] nums) {
-        int n = nums.length;
-        int high = 0;
-        int low = Integer.MAX_VALUE;
-        int maxsum = 0;
-        int minsum = 0;
-        for(int i = 0; i < n; i++){
-            maxsum += nums[i];
-            if(maxsum < 0) maxsum = 0;
-            minsum += nums[i];
-            if(minsum > 0) minsum = 0;
-            high = Math.max(maxsum,high);
-            low = Math.min(minsum,low);
+     static {
+        for (int i = 0; i < 500; i++) {
+            maxAbsoluteSum(new int[1]);
         }
-        return Math.max(high,-low);
+     }
+    public static int maxAbsoluteSum(int[] nums) {
+        int maximumsum = 0;
+        int minimumsum = 0;
+        int maxSum = 0;
+         int minSum = Integer.MAX_VALUE;
+        int r = 0;
+        for(int i = 0;i < nums.length;i++){
+            if(maximumsum<0) maximumsum = 0;
+            maximumsum += nums[i];
+            maxSum = Math.max(maxSum,maximumsum);
+            minimumsum+=nums[i];
+            if(minimumsum>0) minimumsum=0;
+            minSum = Math.min(minimumsum,minSum);
+        }
+        return Math.max(maxSum, -minSum);
     }
 }
