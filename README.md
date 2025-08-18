@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/Soheb04-git/LCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Soheb04-git/LCode/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Soheb04-git/LCode/tree/master/0560-subarray-sum-equals-k) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Soheb04-git/LCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Soheb04-git/LCode/tree/master/0053-maximum-subarray) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Soheb04-git/LCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
