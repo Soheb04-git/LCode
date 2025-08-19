@@ -3,7 +3,7 @@ class Solution {
         int n = height.length;
         int[] left = new int[n];
         int[] right = new int[n];
-        int w,x,wt = 0, flagA = 1,flagB = 1;
+        int w,x,wt = 0;
         /*w = hight of water
           x = height of baar
           wt = calculation of water*/
@@ -12,9 +12,7 @@ class Solution {
         int j = n-2;
         for(int i = 1; i < n; i++){
             left[i] = Math.max(height[i],left[i-1]);
-            if(left[i] == height[i]) flagA++;
             right[j] = Math.max(height[j],right[j+1]);
-            if(left[j] == height[j]) flagB++;
             j--;
         }
         for(int i = 0; i < n; i++){
@@ -22,7 +20,7 @@ class Solution {
             x = height[i];
             wt += (w-x);
         }
-        if(n < 2 || flagA == n || flagB == n){
+        if(n <= 2){
             return 0;
         }
         return wt;
