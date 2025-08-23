@@ -2,7 +2,7 @@ class Solution {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         int greatest = candies[0];
         for(int x : candies){
-            greatest = Math.max(greatest,x);
+            if(x > greatest) greatest = x;
         }
         List<Boolean> booleanlist = new ArrayList<>();
         for(int i = 0; i < candies.length; i++){
