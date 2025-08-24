@@ -41,6 +41,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Soheb04-git/LCode/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/Soheb04-git/LCode/tree/master/0342-power-of-four) |
+| [1236-n-th-tribonacci-number](https://github.com/Soheb04-git/LCode/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0042-trapping-rain-water](https://github.com/Soheb04-git/LCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Soheb04-git/LCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soheb04-git/LCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1236-n-th-tribonacci-number](https://github.com/Soheb04-git/LCode/tree/master/1236-n-th-tribonacci-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Soheb04-git/LCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Soheb04-git/LCode/tree/master/0042-trapping-rain-water) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Soheb04-git/LCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
