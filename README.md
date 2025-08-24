@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/Soheb04-git/LCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Soheb04-git/LCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soheb04-git/LCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Soheb04-git/LCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Soheb04-git/LCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Soheb04-git/LCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Soheb04-git/LCode/tree/master/0283-move-zeroes) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Soheb04-git/LCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Soheb04-git/LCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Soheb04-git/LCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -36,6 +38,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Soheb04-git/LCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Soheb04-git/LCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Soheb04-git/LCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +62,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Soheb04-git/LCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Soheb04-git/LCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,4 +83,8 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/Soheb04-git/LCode/tree/master/1236-n-th-tribonacci-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Soheb04-git/LCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
