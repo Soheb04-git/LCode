@@ -16,6 +16,7 @@
 | [0238-product-of-array-except-self](https://github.com/Soheb04-git/LCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Soheb04-git/LCode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Soheb04-git/LCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Soheb04-git/LCode/tree/master/0724-find-pivot-index) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Soheb04-git/LCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/Soheb04-git/LCode/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Soheb04-git/LCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Soheb04-git/LCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Soheb04-git/LCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Soheb04-git/LCode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Soheb04-git/LCode/tree/master/1833-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
