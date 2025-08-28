@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/Soheb04-git/LCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Soheb04-git/LCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soheb04-git/LCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/Soheb04-git/LCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Soheb04-git/LCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Soheb04-git/LCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Soheb04-git/LCode/tree/master/0238-product-of-array-except-self) |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Soheb04-git/LCode/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Soheb04-git/LCode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
