@@ -38,6 +38,7 @@
 | [0088-merge-sorted-array](https://github.com/Soheb04-git/LCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Soheb04-git/LCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Soheb04-git/LCode/tree/master/0283-move-zeroes) |
+| [2481-strictly-palindromic-number](https://github.com/Soheb04-git/LCode/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0189-rotate-array](https://github.com/Soheb04-git/LCode/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/Soheb04-git/LCode/tree/master/0342-power-of-four) |
 | [1236-n-th-tribonacci-number](https://github.com/Soheb04-git/LCode/tree/master/1236-n-th-tribonacci-number) |
+| [2481-strictly-palindromic-number](https://github.com/Soheb04-git/LCode/tree/master/2481-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Soheb04-git/LCode/tree/master/0162-find-peak-element) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Soheb04-git/LCode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
